@@ -1,4 +1,6 @@
+
 # 두 개 뽑아서 더하기
+
 def solution(numbers):
     answer = []
     for i in range(len(numbers)):
