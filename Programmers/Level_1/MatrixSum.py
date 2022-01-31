@@ -16,5 +16,5 @@ def solution(arr1, arr2):
     return arr1
 
 print(solution( [[1,2],[2,3]], [[3,4],[5,6]] ))
-print(solution( [[1,2]], [[3,4]] ))
+print(solution( [[1],[2]], [[3],[4]] ))
 
