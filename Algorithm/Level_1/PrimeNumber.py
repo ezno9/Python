@@ -1,4 +1,4 @@
-기
+
 # 소수 만들기
 
 from itertools import combinations
