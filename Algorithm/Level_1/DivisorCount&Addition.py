@@ -15,4 +15,3 @@ def solution(left, right):
     return answer
 
 print(solution(1,10))
-
