@@ -18,3 +18,4 @@ def solution(num):
 
 print(solution(3))
 print(solution(4))
+
