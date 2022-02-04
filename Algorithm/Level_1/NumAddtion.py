@@ -20,5 +20,3 @@ def solution(n):
 
 print(solution(123))
 print(solution(987))
-
-
