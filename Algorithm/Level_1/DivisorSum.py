@@ -14,7 +14,6 @@
 # 입출력 예 #2
 # 5의 약수는 1, 5입니다. 이를 모두 더하면 6입니다.
 
-
 def solution(n):
     answer = 0
     sum = 0
@@ -26,3 +25,4 @@ def solution(n):
     return answer
 
 print(solution(12))
+
